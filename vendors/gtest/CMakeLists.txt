@@ -1,0 +1,5 @@
+file(GLOB gtest_SRC *.h ./src/*.cc ./internal/*.h)
+file(GLOB gtest_PUBLIC_HEADERS *.h)
+message(STATUS "gtest_SRC : " ${gtest_SRC})
+add_library(gtest STATIC ${gtest_SRC})
+install(FILES ${gtest_PUBLIC_HEADERS} DESTINATION "include/gtest")

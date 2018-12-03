@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPPLibraryLearning"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\vendors\;CMake Files\vendors\gtest\;CMake Files\tests\;CMake Files\tests\string\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/vendors/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test">
+				<Option output="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 string_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test/fast">
+				<Option output="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 string_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/string.cpp">
+			<Option target="string_test"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-death-test.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-message.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-param-test.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-printers.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-spi.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-test-part.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest-typed-test.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest_pred_impl.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/gtest_prod.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-death-test-internal.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-filepath.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-internal.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-linked_ptr.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-param-util-generated.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-param-util.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-port.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-string.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-tuple.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/internal/gtest-type-util.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-death-test.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-filepath.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-port.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-printers.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-test-part.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest-typed-test.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/src/gtest_main.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\vendors\"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/vendors/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\vendors\gtest\"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\string\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
