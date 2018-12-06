@@ -1,1 +1,3 @@
 add_subdirectory(string)
+add_subdirectory(class)
+add_subdirectory(cppreference)

@@ -35,6 +35,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/cmake_install.cmake")
+  include("/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/class/cmake_install.cmake")
+  include("/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/cmake_install.cmake")
 
 endif()
 

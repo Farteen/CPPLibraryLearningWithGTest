@@ -171,6 +171,87 @@ string_test/fast:
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/build
 .PHONY : string_test/fast
 
+LibraryOverview.o: LibraryOverview.cpp.o
+
+.PHONY : LibraryOverview.o
+
+# target to build an object file
+LibraryOverview.cpp.o:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o
+.PHONY : LibraryOverview.cpp.o
+
+LibraryOverview.i: LibraryOverview.cpp.i
+
+.PHONY : LibraryOverview.i
+
+# target to preprocess a source file
+LibraryOverview.cpp.i:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.i
+.PHONY : LibraryOverview.cpp.i
+
+LibraryOverview.s: LibraryOverview.cpp.s
+
+.PHONY : LibraryOverview.s
+
+# target to generate assembly for a file
+LibraryOverview.cpp.s:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.s
+.PHONY : LibraryOverview.cpp.s
+
+StringAndRegularExpression.o: StringAndRegularExpression.cpp.o
+
+.PHONY : StringAndRegularExpression.o
+
+# target to build an object file
+StringAndRegularExpression.cpp.o:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o
+.PHONY : StringAndRegularExpression.cpp.o
+
+StringAndRegularExpression.i: StringAndRegularExpression.cpp.i
+
+.PHONY : StringAndRegularExpression.i
+
+# target to preprocess a source file
+StringAndRegularExpression.cpp.i:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.i
+.PHONY : StringAndRegularExpression.cpp.i
+
+StringAndRegularExpression.s: StringAndRegularExpression.cpp.s
+
+.PHONY : StringAndRegularExpression.s
+
+# target to generate assembly for a file
+StringAndRegularExpression.cpp.s:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.s
+.PHONY : StringAndRegularExpression.cpp.s
+
+VariadicTemplate.o: VariadicTemplate.cpp.o
+
+.PHONY : VariadicTemplate.o
+
+# target to build an object file
+VariadicTemplate.cpp.o:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o
+.PHONY : VariadicTemplate.cpp.o
+
+VariadicTemplate.i: VariadicTemplate.cpp.i
+
+.PHONY : VariadicTemplate.i
+
+# target to preprocess a source file
+VariadicTemplate.cpp.i:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.i
+.PHONY : VariadicTemplate.cpp.i
+
+VariadicTemplate.s: VariadicTemplate.cpp.s
+
+.PHONY : VariadicTemplate.s
+
+# target to generate assembly for a file
+VariadicTemplate.cpp.s:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.s
+.PHONY : VariadicTemplate.cpp.s
+
 string.o: string.cpp.o
 
 .PHONY : string.o
@@ -198,6 +279,33 @@ string.cpp.s:
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/string.cpp.s
 .PHONY : string.cpp.s
 
+test1.o: test1.cpp.o
+
+.PHONY : test1.o
+
+# target to build an object file
+test1.cpp.o:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/test1.cpp.o
+.PHONY : test1.cpp.o
+
+test1.i: test1.cpp.i
+
+.PHONY : test1.i
+
+# target to preprocess a source file
+test1.cpp.i:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/test1.cpp.i
+.PHONY : test1.cpp.i
+
+test1.s: test1.cpp.s
+
+.PHONY : test1.s
+
+# target to generate assembly for a file
+test1.cpp.s:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/string/CMakeFiles/string_test.dir/build.make tests/string/CMakeFiles/string_test.dir/test1.cpp.s
+.PHONY : test1.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -211,9 +319,21 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... LibraryOverview.o"
+	@echo "... LibraryOverview.i"
+	@echo "... LibraryOverview.s"
+	@echo "... StringAndRegularExpression.o"
+	@echo "... StringAndRegularExpression.i"
+	@echo "... StringAndRegularExpression.s"
+	@echo "... VariadicTemplate.o"
+	@echo "... VariadicTemplate.i"
+	@echo "... VariadicTemplate.s"
 	@echo "... string.o"
 	@echo "... string.i"
 	@echo "... string.s"
+	@echo "... test1.o"
+	@echo "... test1.i"
+	@echo "... test1.s"
 .PHONY : help
 
 

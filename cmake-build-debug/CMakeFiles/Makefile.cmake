@@ -36,6 +36,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.12.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.12.3/CMakeSystem.cmake"
   "../tests/CMakeLists.txt"
+  "../tests/class/CMakeLists.txt"
+  "../tests/cppreference/CMakeLists.txt"
+  "../tests/cppreference/string/CMakeLists.txt"
   "../tests/string/CMakeLists.txt"
   "../vendors/CMakeLists.txt"
   "../vendors/gtest/CMakeLists.txt"
@@ -54,10 +57,15 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "vendors/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "tests/CMakeFiles/CMakeDirectoryInformation.cmake"
   "tests/string/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tests/class/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tests/cppreference/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tests/cppreference/string/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/main.dir/DependInfo.cmake"
   "vendors/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
   "tests/string/CMakeFiles/string_test.dir/DependInfo.cmake"
+  "tests/cppreference/string/CMakeFiles/cppreference_learning.dir/DependInfo.cmake"
   )

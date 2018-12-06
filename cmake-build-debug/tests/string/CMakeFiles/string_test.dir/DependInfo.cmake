@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/LibraryOverview.cpp" "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o"
+  "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/StringAndRegularExpression.cpp" "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o"
+  "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/VariadicTemplate.cpp" "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o"
   "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/string.cpp" "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/CMakeFiles/string_test.dir/string.cpp.o"
+  "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/test1.cpp" "/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string/CMakeFiles/string_test.dir/test1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

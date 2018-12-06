@@ -57,9 +57,48 @@ include tests/string/CMakeFiles/string_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include tests/string/CMakeFiles/string_test.dir/flags.make
 
+tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o: tests/string/CMakeFiles/string_test.dir/flags.make
+tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o: ../tests/string/LibraryOverview.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/string_test.dir/LibraryOverview.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/LibraryOverview.cpp
+
+tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/string_test.dir/LibraryOverview.cpp.i"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/LibraryOverview.cpp > CMakeFiles/string_test.dir/LibraryOverview.cpp.i
+
+tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/string_test.dir/LibraryOverview.cpp.s"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/LibraryOverview.cpp -o CMakeFiles/string_test.dir/LibraryOverview.cpp.s
+
+tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o: tests/string/CMakeFiles/string_test.dir/flags.make
+tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o: ../tests/string/StringAndRegularExpression.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/StringAndRegularExpression.cpp
+
+tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.i"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/StringAndRegularExpression.cpp > CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.i
+
+tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.s"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/StringAndRegularExpression.cpp -o CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.s
+
+tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o: tests/string/CMakeFiles/string_test.dir/flags.make
+tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o: ../tests/string/VariadicTemplate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/string_test.dir/VariadicTemplate.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/VariadicTemplate.cpp
+
+tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/string_test.dir/VariadicTemplate.cpp.i"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/VariadicTemplate.cpp > CMakeFiles/string_test.dir/VariadicTemplate.cpp.i
+
+tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/string_test.dir/VariadicTemplate.cpp.s"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/VariadicTemplate.cpp -o CMakeFiles/string_test.dir/VariadicTemplate.cpp.s
+
 tests/string/CMakeFiles/string_test.dir/string.cpp.o: tests/string/CMakeFiles/string_test.dir/flags.make
 tests/string/CMakeFiles/string_test.dir/string.cpp.o: ../tests/string/string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/string/CMakeFiles/string_test.dir/string.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/string/CMakeFiles/string_test.dir/string.cpp.o"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/string_test.dir/string.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/string.cpp
 
 tests/string/CMakeFiles/string_test.dir/string.cpp.i: cmake_force
@@ -70,18 +109,39 @@ tests/string/CMakeFiles/string_test.dir/string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/string_test.dir/string.cpp.s"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/string.cpp -o CMakeFiles/string_test.dir/string.cpp.s
 
+tests/string/CMakeFiles/string_test.dir/test1.cpp.o: tests/string/CMakeFiles/string_test.dir/flags.make
+tests/string/CMakeFiles/string_test.dir/test1.cpp.o: ../tests/string/test1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/string/CMakeFiles/string_test.dir/test1.cpp.o"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/string_test.dir/test1.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/test1.cpp
+
+tests/string/CMakeFiles/string_test.dir/test1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/string_test.dir/test1.cpp.i"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/test1.cpp > CMakeFiles/string_test.dir/test1.cpp.i
+
+tests/string/CMakeFiles/string_test.dir/test1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/string_test.dir/test1.cpp.s"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/string/test1.cpp -o CMakeFiles/string_test.dir/test1.cpp.s
+
 # Object files for target string_test
 string_test_OBJECTS = \
-"CMakeFiles/string_test.dir/string.cpp.o"
+"CMakeFiles/string_test.dir/LibraryOverview.cpp.o" \
+"CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o" \
+"CMakeFiles/string_test.dir/VariadicTemplate.cpp.o" \
+"CMakeFiles/string_test.dir/string.cpp.o" \
+"CMakeFiles/string_test.dir/test1.cpp.o"
 
 # External object files for target string_test
 string_test_EXTERNAL_OBJECTS =
 
+tests/string/string_test: tests/string/CMakeFiles/string_test.dir/LibraryOverview.cpp.o
+tests/string/string_test: tests/string/CMakeFiles/string_test.dir/StringAndRegularExpression.cpp.o
+tests/string/string_test: tests/string/CMakeFiles/string_test.dir/VariadicTemplate.cpp.o
 tests/string/string_test: tests/string/CMakeFiles/string_test.dir/string.cpp.o
+tests/string/string_test: tests/string/CMakeFiles/string_test.dir/test1.cpp.o
 tests/string/string_test: tests/string/CMakeFiles/string_test.dir/build.make
 tests/string/string_test: vendors/gtest/libgtest.a
 tests/string/string_test: tests/string/CMakeFiles/string_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable string_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable string_test"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/string && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/string_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -3,6 +3,9 @@
 //
 
 #include <gtest/gtest.h>
+#include <vector>
+
+using namespace std;
 
 int main(int argc, char** argv) {
     testing::InitGoogleTest(&argc, argv);
@@ -10,5 +13,6 @@ int main(int argc, char** argv) {
 }
 
 TEST(FooTest, NoneZeroTesting) {
-    EXPECT_EQ(1, 0);
+
 }
+

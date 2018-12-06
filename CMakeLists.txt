@@ -1,14 +1,12 @@
 cmake_minimum_required(VERSION 3.12)
+set(CMAKE_CXX_STANDARD 11)
 project(CPPLibraryLearning)
+
+add_executable(main main.cpp)
 
 include_directories(${PROJECT_SOURCE_DIR}/vendors)
 
-if (UNIX)
-    SET(DEPENDENT_LIBRARIES gtest)
-endif ()
-
 add_subdirectory(vendors)
 add_subdirectory(tests)
-
 
 

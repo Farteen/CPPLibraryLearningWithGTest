@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/main.cpp
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+fstream
+-
+
