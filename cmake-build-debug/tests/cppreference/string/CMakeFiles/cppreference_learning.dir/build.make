@@ -96,9 +96,22 @@ tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppreference_learning.dir/map_learning.cpp.s"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/map_learning.cpp -o CMakeFiles/cppreference_learning.dir/map_learning.cpp.s
 
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/flags.make
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../tests/cppreference/string/stream_iterators.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/stream_iterators.cpp
+
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.i"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/stream_iterators.cpp > CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.i
+
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.s"
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/stream_iterators.cpp -o CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.s
+
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/flags.make
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../tests/cppreference/string/string_cpp_ref.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/string_cpp_ref.cpp
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.i: cmake_force
@@ -111,7 +124,7 @@ tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cp
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/flags.make
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../tests/cppreference/string/unordered_map_learning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/unordered_map_learning.cpp
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.i: cmake_force
@@ -124,7 +137,7 @@ tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_lea
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/flags.make
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o: ../tests/cppreference/string/vector_learning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o -c /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/vector_learning.cpp
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.i: cmake_force
@@ -140,6 +153,7 @@ cppreference_learning_OBJECTS = \
 "CMakeFiles/cppreference_learning.dir/io_user_defined_types.cpp.o" \
 "CMakeFiles/cppreference_learning.dir/list_learning.cpp.o" \
 "CMakeFiles/cppreference_learning.dir/map_learning.cpp.o" \
+"CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o" \
 "CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o" \
 "CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o" \
 "CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o"
@@ -150,13 +164,14 @@ cppreference_learning_EXTERNAL_OBJECTS =
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/io_user_defined_types.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/list_learning.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.o
+tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/build.make
 tests/cppreference/string/cppreference_learning: vendors/gtest/libgtest.a
 tests/cppreference/string/cppreference_learning: tests/cppreference/string/CMakeFiles/cppreference_learning.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cppreference_learning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable cppreference_learning"
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug/tests/cppreference/string && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cppreference_learning.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

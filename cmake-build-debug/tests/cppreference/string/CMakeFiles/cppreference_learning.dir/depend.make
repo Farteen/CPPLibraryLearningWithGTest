@@ -64,6 +64,27 @@ tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.o: ../vendors/gtest/internal/gtest-type-util.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.o: ../tests/cppreference/string/map_learning.cpp
 
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-death-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-message.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-param-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-printers.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-test-part.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest-typed-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest_pred_impl.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/gtest_prod.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-death-test-internal.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-filepath.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-internal.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-linked_ptr.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-param-util-generated.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-param-util.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-port.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-string.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-tuple.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../vendors/gtest/internal/gtest-type-util.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o: ../tests/cppreference/string/stream_iterators.cpp
+
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../vendors/gtest/gtest-death-test.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../vendors/gtest/gtest-message.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../vendors/gtest/gtest-param-test.h
@@ -84,6 +105,27 @@ tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cp
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../vendors/gtest/internal/gtest-tuple.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../vendors/gtest/internal/gtest-type-util.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/string_cpp_ref.cpp.o: ../tests/cppreference/string/string_cpp_ref.cpp
+
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-death-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-message.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-param-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-printers.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-test-part.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest-typed-test.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest_pred_impl.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/gtest_prod.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-death-test-internal.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-filepath.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-internal.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-linked_ptr.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-param-util-generated.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-param-util.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-port.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-string.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-tuple.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../vendors/gtest/internal/gtest-type-util.h
+tests/cppreference/string/CMakeFiles/cppreference_learning.dir/unordered_map_learning.cpp.o: ../tests/cppreference/string/unordered_map_learning.cpp
 
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o: ../vendors/gtest/gtest-death-test.h
 tests/cppreference/string/CMakeFiles/cppreference_learning.dir/vector_learning.cpp.o: ../vendors/gtest/gtest-message.h

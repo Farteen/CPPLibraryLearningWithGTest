@@ -252,6 +252,33 @@ map_learning.cpp.s:
 	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/cppreference/string/CMakeFiles/cppreference_learning.dir/build.make tests/cppreference/string/CMakeFiles/cppreference_learning.dir/map_learning.cpp.s
 .PHONY : map_learning.cpp.s
 
+stream_iterators.o: stream_iterators.cpp.o
+
+.PHONY : stream_iterators.o
+
+# target to build an object file
+stream_iterators.cpp.o:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/cppreference/string/CMakeFiles/cppreference_learning.dir/build.make tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.o
+.PHONY : stream_iterators.cpp.o
+
+stream_iterators.i: stream_iterators.cpp.i
+
+.PHONY : stream_iterators.i
+
+# target to preprocess a source file
+stream_iterators.cpp.i:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/cppreference/string/CMakeFiles/cppreference_learning.dir/build.make tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.i
+.PHONY : stream_iterators.cpp.i
+
+stream_iterators.s: stream_iterators.cpp.s
+
+.PHONY : stream_iterators.s
+
+# target to generate assembly for a file
+stream_iterators.cpp.s:
+	cd /Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/cmake-build-debug && $(MAKE) -f tests/cppreference/string/CMakeFiles/cppreference_learning.dir/build.make tests/cppreference/string/CMakeFiles/cppreference_learning.dir/stream_iterators.cpp.s
+.PHONY : stream_iterators.cpp.s
+
 string_cpp_ref.o: string_cpp_ref.cpp.o
 
 .PHONY : string_cpp_ref.o
@@ -355,6 +382,9 @@ help:
 	@echo "... map_learning.o"
 	@echo "... map_learning.i"
 	@echo "... map_learning.s"
+	@echo "... stream_iterators.o"
+	@echo "... stream_iterators.i"
+	@echo "... stream_iterators.s"
 	@echo "... string_cpp_ref.o"
 	@echo "... string_cpp_ref.i"
 	@echo "... string_cpp_ref.s"

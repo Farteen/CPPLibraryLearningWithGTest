@@ -39,7 +39,7 @@ enum class JsonTag {
 };
 
 #include <fstream>
-
+#include <set>
 template <typename Target=string, typename Source=string>
 Target to(Source arg) {
     stringstream interpreter;
@@ -54,10 +54,27 @@ Target to(Source arg) {
 
 int main() {
 
-    vector<int> v = {1, 2};
-    for (auto& i : v) {
-        cout << i << endl;
-    }
+    string from, to;
+
+    cin >> from >> to;
+
+    ifstream is{from};
+    ofstream os{to};
+
+    set<string> b{istream_iterator<string>{is}, istream_iterator<string>{}};
+    copy(b.begin(), b.end(), ostream_iterator<string>{os, "\n"});
+    return !is.eof() || !os;
+
+//    string from, to;
+//    cin >> from >> to;
+//
+//    cout << "from " << from << endl;
+//    cout << "to " << to << endl;
+
+//    vector<int> v = {1, 2};
+//    for (auto& i : v) {
+//        cout << i << endl;
+//    }
 //    auto x1 = to<string, double>(1.2);
 //    cout << x1 << endl;
 

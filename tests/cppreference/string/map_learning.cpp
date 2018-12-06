@@ -13,7 +13,7 @@ TEST(learning_map, map) {
             {"david", 123}
     };
     auto result = phone_book.find("david");
-    cout << result << endl;
+//    cout << result << endl;
 //    cout << phone_book["david"] << endl;
 
 }

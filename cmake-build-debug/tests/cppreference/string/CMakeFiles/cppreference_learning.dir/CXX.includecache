@@ -246,9 +246,17 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/map_learning.cpp
+/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/stream_iterators.cpp
 gtest/gtest.h
 -
-map
+unordered_map
+-
+list
+-
+vector
+-
+ostream
+-
+string
 -
 

@@ -274,6 +274,9 @@
 		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/map_learning.cpp">
 			<Option target="cppreference_learning"/>
 		</Unit>
+		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/stream_iterators.cpp">
+			<Option target="cppreference_learning"/>
+		</Unit>
 		<Unit filename="/Users/yysz02/Desktop/Mooooooves/CPPLibraryLearning/tests/cppreference/string/string_cpp_ref.cpp">
 			<Option target="cppreference_learning"/>
 		</Unit>
